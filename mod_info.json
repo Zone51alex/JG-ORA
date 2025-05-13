@@ -1,10 +1,11 @@
 {
-    "id": "ORA",
+    "id": "JG-ORA",
     "name": "Outer Rim Alliance",
-    "author": "Tartiflette, 0.96/0.97 update MnHebi",
-    "version": "0.95rc4m",
-    "description": "Welcome to the Outer Rim Alliance, a growing force of good in these dire times. One of the few groups, if not the only one, able to reverse the spiral of destruction that plagued our Sector since the Great Collapse. Let go of your worldly possessions, give them to the Alliance and we will give you a purpose. Become an agent of reconstruction rather than destruction, and strive to build a better world, together.",
-    "gameVersion": "0.97",
+    "author": "Tartiflette,MnHebi,Zone51",
+    "version": "0.8.0",
+    "description": "Welcome to the Outer Rim Alliance, a growing force of good in these dire times. One of the few groups, if not the only one, able to reverse the spiral of destruction that plagued our Sector since the Great Collapse. Let go of your worldly possessions, give them to the Alliance and we will give you a purpose. Become an agent of reconstruction rather than destruction, and strive to build a better world, together. 0.96/0.97 update By MnHebi, 0.98 Update By Zone51"
+	,
+    "gameVersion": "0.98",
     "dependencies": [
         {
             "id": "lw_lazylib",

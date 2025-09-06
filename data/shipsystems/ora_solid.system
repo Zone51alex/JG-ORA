@@ -2,8 +2,8 @@
     "id":"ora_solid",
 
     "type":"STAT_MOD",
-    "aiType":"CUSTOM",
-    "aiScript":"data.shipsystems.scripts.ai.ORA_solidAI",
+    "aiType":"FORTRESS_SHIELD",
+    #"aiScript":"data.shipsystems.scripts.ai.ORA_solidAI",
 
     "statsScript":"data.shipsystems.scripts.ORA_solid",
 

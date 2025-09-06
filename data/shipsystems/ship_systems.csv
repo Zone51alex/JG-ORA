@@ -3,7 +3,7 @@ name,id,flux/second,f/s (base rate),f/s (base cap),flux/use,f/u (base rate),f/u 
 Attitude Thrusters,ora_attitude,,,,,,,,3,0.05,1,3,2,1,FALSE,,,,,,,,,,,,graphics/icons/hullsys/maneuvering_jets.png
 Solid State Capacitors,ora_solid,,,,,,,,,,1,5,1,13,FALSE,,,,,,,,,,,,graphics/icons/hullsys/fortress_shield.png
 Heavy Phase Teleporter,ora_teleporter,,,,,,0.1,,3,0.05,0.75,0,0.75,,,,,TRUE,,,,,,,,,graphics/icons/hullsys/teleporter.png
-Compact Fortress Shield,ora_fortressshield,,,0.025,,,,,3,0.05,1,,1,3,TRUE,,,TRUE,TRUE,,,,,,,,graphics/icons/hullsys/fortress_shield.png
+Compact Fortress Shield,ora_fortressshield,,,0.025,,,,,3,0.05,1,,1,3,TRUE,,,TRUE,,,,,,,,,graphics/icons/hullsys/fortress_shield.png
 Long Range Coordination,ora_longRange,,,,,,,,,1,18,1,30,,,,,,,,,,,,,,graphics/icons/hullsys/burn_drive.png
 Coordinated Engagement,ora_coordination,,,,,,,,,,1,15,1,43,,,,,,,,,,,,,graphics/icons/hullsys/targeting_feed.png
 Arc Emitter,ora_emp,,,,,,0.05,,5,0.2,0,0.25,0,0.2,,,,,,,,,,,,,graphics/icons/hullsys/emp_emitter.png

@@ -1,0 +1,57 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 20,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "ora_elevation",
+    "hullMods": [
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "ora_elevation_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0002": "sabotpod",
+                "WS0003": "sabotpod",
+                "WS0004": "sabot",
+                "WS0005": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "ora_sempiternal",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0009": "ora_litany",
+                "WS0008": "ora_litany",
+                "WS0007": "ora_litany",
+                "WS0006": "ora_litany",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "ora_choir",
+                "WS0011": "ora_choir",
+                "WS0013": "ora_choir",
+                "WS0010": "ora_choir",
+            }
+        },
+    ],
+    "wings": [
+        "ora_fervor_wing",
+    ],
+    "modules": [],
+}

@@ -1,0 +1,27 @@
+-Todo-
+
+Balance Changes :
+Bliss Shield eff buffed from 0.7 to 0.6, Speed buffed from 130 to 150 and Fluex vents increased from 175 to 200.
+
+Weapons :
+Prayer Sender 1 (S) Same but Small.
+Prayer Sender 2 (S) AMM Missile Version.
+Sempiternal Repeater (M) Same but Medium.
+Invocation Launcher (M) Same but Medium.
+
+Fighters :
+none.
+
+Ships :
+Ascension Small hardpoints got turned to Synergy instead of Energy.
+Bliss inner middile small slots got turned to Synergy instead of Energy.
+Harmony inner middile slots got turned to Synergy instead of Energy.
+Felicity inner middile slots got turned to Synergy instead of Energy.
+Elevation middile slots got turned to Synergy instead of Energy and the 4 small Synergy slots got turned to Energy slots.
+Beatitude inner Middile slots got turned to Synergy instead of Energy
+, the 2 middile center energy slots got turned into Synergy and the 2 side slots on the top middile medium slot got turned from Synergy to Energy.
+Enligtenment top middile slots got their type switched around.
+
+ShipSystems :
+Solid State Capacitors (now uses the fortress Shield AI instead of custom)
+Compact Fortess Shield (noFiring is set to false)

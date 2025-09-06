@@ -22,7 +22,7 @@ Communion,ora_communion,Carrier,Outer Rim Alliance,flarelauncher_active,10,2250,
 #FRIGATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Mirth,ora_mirth,Heavy Frigate,Outer Rim Alliance,highenergyfocus,5,1750,200,3000,,200,55,,170,125,100,45,35,250,OMNI,,120,0.3,0.6,,,30,45,40,30,1,,10,12000,10,20,180,0.25,5,5,,ora_bp,,0.4,2,2,220
-Bliss,ora_bliss,Frigate,Outer Rim Alliance,ora_fortressshield,5,1500,175,4000,,175,60,,130,110,90,60,120,200,OMNI,,90,0.3,0.7,,,20,30,60,40,1,,10,14000,8,16,240,0.25,5,5,,ora_bp,,0.3,2,2,214
+Bliss,ora_bliss,Frigate,Outer Rim Alliance,ora_fortressshield,5,1500,175,4000,,200,60,,150,110,90,60,120,200,OMNI,,90,0.3,0.6,,,20,30,60,40,1,,10,14000,8,16,240,0.25,5,5,,ora_bp,,0.3,2,2,214
 Ascension,ora_ascension,Advanced Frigate,Outer Rim Alliance,ora_newton,12,1250,150,4500,,175,50,,160,120,100,50,50,225,OMNI,,180,0.3,0.6,,,10,15,5,5,2,,10,22000,7,20,180,0.25,12,12,,rare_bp,0.5,0.4,2,2,220
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 #FIGHTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

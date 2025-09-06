@@ -1,0 +1,32 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 0,
+    "fluxVents": 8,
+    "goalVariant": true,
+    "hullId": "ora_communion",
+    "hullMods": [
+        "expanded_deck_crew",
+        "recovery_shuttles",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "ora_communion_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "ora_choir",
+                "WS0003": "ora_choir",
+                "WS0002": "ora_choir",
+                "WS0004": "ora_choir",
+            }
+        },
+    ],
+    "wings": [
+        "ora_fervor_wing",
+        "ora_fervor_wing",
+    ],
+    "modules": [],
+}
